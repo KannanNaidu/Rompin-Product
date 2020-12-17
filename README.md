@@ -15,3 +15,9 @@ FIle yang digunakan untuk membina website contoh
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 ```
 
+## Kredit
+Photo yang digunakan dari website Pixabay. User : Ratna Fitry
+
+[Ratna Fitry](https://pixabay.com/users/endho-2065768/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3561645 "Ratna Fitry")
+
+[Website Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3561645 "Pixabay")
